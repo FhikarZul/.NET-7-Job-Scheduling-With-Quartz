@@ -1,0 +1,43 @@
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/appsettings.Development.json
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/appsettings.json
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Job Scheduling
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Job Scheduling.deps.json
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Job Scheduling.runtimeconfig.json
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Job Scheduling.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Job Scheduling.pdb
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.csproj.AssemblyReference.cache
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.AssemblyInfoInputs.cache
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.AssemblyInfo.cs
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.csproj.CoreCompileInputs.cache
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.MvcApplicationPartsAssemblyInfo.cache
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/staticwebassets/msbuild.Job Scheduling.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/staticwebassets/msbuild.build.Job Scheduling.props
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Job Scheduling.props
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Job Scheduling.props
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/staticwebassets.build.json
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/staticwebassets.development.json
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/scopedcss/bundle/Job Scheduling.styles.css
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/refint/Job Scheduling.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.pdb
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.genruntimeconfig.cache
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/ref/Job Scheduling.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Quartz.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Quartz.Extensions.DependencyInjection.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Quartz.Extensions.Hosting.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Schedule.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/bin/Debug/net7.0/Schedule.pdb
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Job Scheduling/obj/Debug/net7.0/Job Scheduling.csproj.CopyComplete

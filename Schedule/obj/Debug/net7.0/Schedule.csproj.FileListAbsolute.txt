@@ -1,0 +1,12 @@
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/bin/Debug/net7.0/Schedule.deps.json
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/bin/Debug/net7.0/Schedule.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/bin/Debug/net7.0/Schedule.pdb
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/Schedule.csproj.AssemblyReference.cache
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/Schedule.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/Schedule.AssemblyInfoInputs.cache
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/Schedule.AssemblyInfo.cs
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/Schedule.csproj.CoreCompileInputs.cache
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/Schedule.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/refint/Schedule.dll
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/Schedule.pdb
+/Users/meow/Documents/Development/Learn/CS/Job Scheduling/Schedule/obj/Debug/net7.0/ref/Schedule.dll
